@@ -22,7 +22,7 @@ The objective of the game is to guess the hidden word by guessing one letter at 
 
 2. Navigate to the project directory:
    ```bash
-   cd hangman-Game-Python-Mini-Project
+   cd Hangman-Game-Python-Mini-Project
    ```
 
 3. Ensure you have Python installed (version 3.6 or later).
