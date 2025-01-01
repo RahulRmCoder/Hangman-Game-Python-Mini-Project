@@ -31,12 +31,12 @@ The objective of the game is to guess the hidden word by guessing one letter at 
 
 5. Run the game:
    ```bash
-   python hangman.py
+   python hangman_game.py
    ```
 
 ## Files Included
 
-- `hangman.py`: The main script to run the game.
+- `hangman_game.py`: The main script to run the game.
 - `hangman_words.py`: Contains a list of words used in the game.
 - `hangman_art.py`: Contains the ASCII art stages and logo for the game.
 
