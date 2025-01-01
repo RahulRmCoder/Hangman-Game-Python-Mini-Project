@@ -17,7 +17,7 @@ The objective of the game is to guess the hidden word by guessing one letter at 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/hangman-game.git
+   git clone https://github.com/RahulRmCoder/Hangman-Game-Python-Mini-Project.git
    ```
 
 2. Navigate to the project directory:
@@ -75,8 +75,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 
 For any questions or suggestions, please contact:
-- Your Name: [Your Email]
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
+- Rahul Rajasekharan Menon: [rahulrajasekharanmenon64325@gmail.com]
+- GitHub: [https://github.com/RahulRmCoder](https://github.com/RahulRmCoder)
 
 Enjoy the game!
 
