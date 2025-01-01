@@ -1,4 +1,4 @@
-# Hangman Game
+# Hangman-Game-Python-Mini-Project
 
 Welcome to the **Hangman Game**! This is a Python-based implementation of the classic word-guessing game. Test your vocabulary and deduction skills while having fun!
 
@@ -22,7 +22,7 @@ The objective of the game is to guess the hidden word by guessing one letter at 
 
 2. Navigate to the project directory:
    ```bash
-   cd hangman-game
+   cd hangman-Game-Python-Mini-Project
    ```
 
 3. Ensure you have Python installed (version 3.6 or later).
@@ -75,7 +75,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 
 For any questions or suggestions, please contact:
-- Rahul Rajasekharan Menon: [rahulrajasekharanmenon64325@gmail.com](rahulrajasekharanmenon64325@gmail.com)
+- Rahul Rajasekharan Menon: rahulrajasekharanmenon64325@gmail.com
 - GitHub: [https://github.com/RahulRmCoder](https://github.com/RahulRmCoder)
 
 Enjoy the game!
