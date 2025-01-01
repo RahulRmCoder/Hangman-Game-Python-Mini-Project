@@ -75,7 +75,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 
 For any questions or suggestions, please contact:
-- Rahul Rajasekharan Menon: rahulrajasekharanmenon64325@gmail.com
+- Rahul Rajasekharan Menon: [My Email](mailto:rahulrajasekharanmenon64325@gmail.com)
 - GitHub: [https://github.com/RahulRmCoder](https://github.com/RahulRmCoder)
 
 Enjoy the game!
